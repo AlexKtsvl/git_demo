@@ -2,3 +2,7 @@ things to do
 walk dog
 practice java
 practice git
+
+things to do more 
+add more files and folders 
+edited some text
